@@ -1,4 +1,9 @@
 import streamlit as st 
+import pandas as pd
+import numpy as np 
+
+print(pd.__version__)
+print(np.__version__)
 
 st.title('Streamlit 超入門')
 
